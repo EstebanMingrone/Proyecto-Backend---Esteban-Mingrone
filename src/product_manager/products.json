@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Manzana",
+    "description": "Red Delicious",
+    "price": 30,
+    "thumbnail": "https://biotrendies.com/wp-content/uploads/2015/06/manzana.jpg",
+    "code": "01",
+    "stock": 100,
+    "id": 1
+  },
+  {
+    "title": "Naranja",
+    "description": "Para jugo",
+    "price": 20,
+    "thumbnail": "https://greenshop.ar/wp-content/uploads/sites/9/2016/08/A.2.37-J.500GR.jpg",
+    "code": "02",
+    "stock": 100,
+    "id": 2
+  },
+  {
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "id": 4
+  }
+]
